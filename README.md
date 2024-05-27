@@ -75,4 +75,9 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" alt="Thanks for Visiting!" height="100" />
 </p>
 
+<p align="center">
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=ajmalrasouli&label=Profile%20Views&color=12&icon=5&pretty=true" />
+</a>
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
