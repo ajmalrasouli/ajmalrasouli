@@ -1,7 +1,7 @@
 Hi 👋, I'm Ajmal Rasouli
 
-Experienced IT Technical Engineer 🌐 with a proven track record of efficiently managing,
-maintaining, and troubleshooting IT infrastructures. Cloud and on-prem.
+Experienced IT Technical Engineer 🌐 adept at effectively overseeing, sustaining, and resolving issues within diverse IT environments,
+both cloud-based and on-premises. Demonstrated success in proficiently managing and troubleshooting IT infrastructures."
 
 
 
