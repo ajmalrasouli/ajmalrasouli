@@ -72,6 +72,22 @@ I’ve supported schools, government agencies, and private companies in building
 | [**Dev Projects**](#) | More fun projects like games, converters, Flask apps & automation tools in my repos below 👇 |
 
 ---
+## 🚀 Projects:
+- [Inventory](https://github.com/ajmalrasouli/Inventory_app): A comprehensive application for managing inventory in a streamlined and efficient manner.
+- [Tic Tac Toe](https://github.com/ajmalrasouli/github-actions-demo): A simple, interactive Tic Tac Toe game built with HTML, CSS, and JavaScript.
+- [Todo App](https://github.com/ajmalrasouli/todo-app): This is a simple todo application built with Python, Flask, SQLAlchemy, and Flask-Login.
+- [Address Book](https://github.com/ajmalrasouli/address-book-app): Manage your contacts effortlessly with this user-friendly Python GUI application. Powered by SQLite.
+- [#100DaysOfCode Challenge](https://github.com/ajmalrasouli/100DaysOfCode): The #100DaysOfCode challenge is a commitment to code every day for at least an hour for 100 days. This repository will serve as a log of my progress, including daily updates, code snippets, project descriptions, and reflections on what I've learned.
+- [Simple Calculator](https://github.com/ajmalrasouli/Calculator): Calculator 2023" is a user-friendly and functional calculator application that emulates the look and feel of a traditional physical calculator.
+- [Space Invaders Game](https://github.com/ajmalrasouli/space-invaders-python): Space Invaders in Python is a classic arcade-style game recreated using the Python programming language.
+- [Task Automation App](https://github.com/ajmalrasouli/Task-Automation-Apps): The Task Automation Apps Repository! This repository contains a collection of applications designed to automate various daily tasks and streamline your workflow.
+- [Password Store App](https://github.com/ajmalrasouli/HackTogetherDN8): A simple ASP.NET Core web application for managing passwords. PasswordStoreApp is a secure and user-friendly password management web application built with **ASP.NET Core**.
+- [Terraform Beginner Bootcamp 2023](https://github.com/ajmalrasouli/terraform-beginner-bootcamp-2023): This repository is designed to be a comprehensive guide for beginners who want to learn and master Terraform, an open-source infrastructure as code (**IaC**) software tool. Throughout this bootcamp, you will gain hands-on experience with Terraform, understand its core concepts, and learn how to automate infrastructure provisioning.
+- [Avatar Converter](https://github.com/ajmalrasouli/ProjectData): Avatar Converter is a web application that allows users to capture an image using their device's camera and convert it to an avatar. The captured image can be processed and transformed into different avatar styles.
+- [Azure Resume Challenge](https://github.com/ajmalrasouli/ar-resume): This project showcases my resume using Azure services. This resume goes beyond the traditional paper format, offering a unique and engaging experience for potential employers and collaborators.
+<!-- Add more projects as needed -->
+
+---
 
 ## 📈 GitHub Stats
 
