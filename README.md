@@ -124,7 +124,7 @@ I’ve supported schools, government agencies, and private companies in building
   <a href="https://x.com/AjmalRasouli2" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" />
   </a>
-  <a href="https://ajmaltech.com/" target="_blank">
+  <a href="https://www.ajmalrasouli.uk/" target="_blank">
     <img src="https://img.shields.io/badge/Website-%23E34F26.svg?logo=html5&logoColor=white" />
   </a>
 </p>
