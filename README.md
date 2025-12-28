@@ -63,6 +63,7 @@ I’ve supported schools, government agencies, and private companies in building
 
 | Project | Description |
 |--------|-------------|
+| [**AI Storyteller for Children**](https://github.com/ajmalrasouli/ai-storyteller) | Custom AI bedtime stories for kids—tailored to their interests and learning themes. |
 | [**Hybrid AD Setup**](https://github.com/ajmalrasouli/hybrid-ad-setup) *(coming soon)* | On-prem Active Directory + Azure AD + Azure AD Connect with PowerShell automation and IaC |
 | [**Azure Resume Challenge**](https://github.com/ajmalrasouli/ar-resume) | Azure-hosted interactive resume using Blob Storage, CDN, and DevOps workflows |
 | [**Terraform Bootcamp**](https://github.com/ajmalrasouli/terraform-beginner-bootcamp-2023) | Hands-on IaC labs and exercises for learning Terraform fundamentals |
