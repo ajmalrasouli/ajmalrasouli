@@ -63,6 +63,8 @@ I’ve supported schools, government agencies, and private companies in building
 
 | Project | Description |
 |--------|-------------|
+| [**MediaCMS – Production-Grade Docker Deployment**](https://github.com/ajmalrasouli/mediacms-production-nas) | MediaCMS deployment with Docker, SSD-backed databases, NAS storage, and bulk media registration. |
+| [**Immich – Production Self-Hosted Deployment**](https://github.com/ajmalrasouli/immich-selfhosted-production) | Immich deployment with Docker, SSD-backed databases, ML services, and NAS storage. |
 | [**AI Storyteller for Children**](https://github.com/ajmalrasouli/ai-storyteller) | Custom AI bedtime stories for kids—tailored to their interests and learning themes. |
 | [**Hybrid AD Setup**](https://github.com/ajmalrasouli/hybrid-ad-setup) *(coming soon)* | On-prem Active Directory + Azure AD + Azure AD Connect with PowerShell automation and IaC |
 | [**Azure Resume Challenge**](https://github.com/ajmalrasouli/ar-resume) | Azure-hosted interactive resume using Blob Storage, CDN, and DevOps workflows |
