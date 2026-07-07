@@ -63,6 +63,7 @@ I’ve supported schools, government agencies, and private companies in building
 
 | Project | Description |
 |--------|-------------|
+| [**Enterprise M365 Azure Lab**](https://github.com/ajmalrasouli/enterprise-m365-azure-lab) | Enterprise Microsoft 365 and Azure lab showcasing Entra ID, Intune, Conditional Access, Azure infrastructure, PowerShell automation, Terraform, and monitoring. |
 | [**MediaCMS – Production-Grade Docker Deployment**](https://github.com/ajmalrasouli/mediacms-production-nas) | MediaCMS deployment with Docker, SSD-backed databases, NAS storage, and bulk media registration. |
 | [**Immich – Production Self-Hosted Deployment**](https://github.com/ajmalrasouli/immich-selfhosted-production) | Immich deployment with Docker, SSD-backed databases, ML services, and NAS storage. |
 | [**AI Storyteller for Children**](https://github.com/ajmalrasouli/ai-storyteller) | Custom AI bedtime stories for kids—tailored to their interests and learning themes. |
