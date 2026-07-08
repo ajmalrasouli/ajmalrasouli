@@ -124,20 +124,20 @@ I enjoy building enterprise labs, automating infrastructure, and sharing practic
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-
 # 🌟 Featured Projects
 
 | Project | Description |
 |---------|-------------|
-| 🚀 [Enterprise M365 Azure Lab](https://github.com/ajmalrasouli/enterprise-m365-azure-lab) | Enterprise Azure, Microsoft 365, Intune, Entra ID, Conditional Access, Terraform and PowerShell lab. |
-| 🔐 [Hybrid Identity Lab](https://github.com/ajmalrasouli/hybrid-ad-setup) *(In Progress)* | Hybrid Active Directory, Entra Connect, Intune and PowerShell automation. |
-| ☁️ [Azure Resume Challenge](https://github.com/ajmalrasouli/ar-resume) | Cloud-hosted interactive resume built with Azure services and DevOps workflows. |
-| 🏗 [Terraform Bootcamp](https://github.com/ajmalrasouli/terraform-beginner-bootcamp-2023) | Hands-on Infrastructure as Code learning repository. |
-| 🐳 [Immich Production Deployment](https://github.com/ajmalrasouli/immich-selfhosted-production) | Production-ready Docker deployment using SSD-backed databases and NAS storage. |
-| 🎬 [MediaCMS Production Deployment](https://github.com/ajmalrasouli/mediacms-production-nas) | Enterprise Docker deployment with persistent storage and automation. |
-| 🤖 [AI Storyteller](https://github.com/ajmalrasouli/ai-storyteller) | AI-powered storytelling application for children. |
-| ⚡ [PowerShell Scripts](https://github.com/ajmalrasouli/powershell-scripts) | Automation scripts for enterprise administration. |
+| 🚀 [Enterprise M365 Azure Lab](https://github.com/ajmalrasouli/enterprise-m365-azure-lab) | Enterprise Microsoft 365 and Azure environment featuring Entra ID, Intune, Conditional Access, Terraform, PowerShell automation, monitoring, and security best practices. |
+| 🔐 [Hybrid Identity Lab](https://github.com/ajmalrasouli/hybrid-ad-setup) | Enterprise hybrid identity lab integrating Active Directory, Microsoft Entra ID, Microsoft Entra Connect Sync, Terraform, Hyper-V, and PowerShell DSC. |
+| ☁️ [Azure Resume Challenge](https://github.com/ajmalrasouli/ar-resume) | Cloud-hosted interactive resume deployed on Azure using Infrastructure as Code and DevOps workflows. |
+| ⚡ **PowerShell Automation Toolkit** *(Coming Soon)* | Enterprise-ready PowerShell modules for Microsoft 365, Azure, Active Directory, Intune, Hyper-V, networking, reporting, and automation. |
+| 🏗 [Terraform Bootcamp](https://github.com/ajmalrasouli/terraform-beginner-bootcamp-2023) | Hands-on Infrastructure as Code learning repository covering Terraform fundamentals and Azure deployments. |
+| 🐳 [Immich Production Deployment](https://github.com/ajmalrasouli/immich-selfhosted-production) | Production-ready Docker deployment with SSD-backed databases, machine learning services, and NAS storage. |
+| 🎬 [MediaCMS Production Deployment](https://github.com/ajmalrasouli/mediacms-production-nas) | Enterprise Docker deployment with persistent storage, automation, and scalable media management. |
+| 🤖 [AI Storyteller](https://github.com/ajmalrasouli/ai-storyteller) | AI-powered storytelling application that generates personalised stories for children. |
 
+---
 ---
 
 # 📈 Contribution Streak
